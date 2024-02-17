@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Developement
 - 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 You Can Contact me on ashishmisal23@gmail.com
-      M: 9689642096
+- 📫 M: 9689642096
 
 
 
