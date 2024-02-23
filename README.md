@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+###
 
 <h1>👋 Hi, I’m <b>Ashish Misal</b> </h1>
 <h4>
@@ -40,13 +41,21 @@
   <img width="12" /> 
   
 </div>
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ashishmisal23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div><br>
+###
 
 <div align="center">
   <h2> Profile Visit Count</h2>
   <img src="https://profile-counter.glitch.me/ashishmisal23/count.svg?"  />
-</div>
+</div><br>
 
-<img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+###
+
+
+<div align="center">
+  <img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+</div>
