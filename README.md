@@ -11,7 +11,8 @@
   </a>
 </div>
 
-<h1>👋 Hi, I’m <b>Ashish Misal</b> <h1>
+<h3>👋 Hi, I’m <b>Ashish Misal</b> </h3>
+
 👀 I’m interested in Web Developement <br>
 🌱 I’m currently learning Full Stack Developement <br>
 💞️ I’m looking to collaborate on Web Application Projects <br>
