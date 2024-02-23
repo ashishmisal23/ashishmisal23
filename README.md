@@ -12,7 +12,7 @@
 </div>
 
 <h1>👋 Hi, I’m <b>Ashish Misal</b> </h1>
-<h3>
+<h4>
 👀 I’m interested in Web Developement <br>
 🌱 I’m currently learning Full Stack Developement <br>
 💞️ I’m looking to collaborate on Web Application Projects <br>
@@ -20,7 +20,7 @@
 📫 You Can Contact me on <a href="mailto:ashishmisal123@gmail.com" target="_blank">ashishmisal23@gmail.com </a><br>
 📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
 🛠 Language and tools <br>
-</h3>
+</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
