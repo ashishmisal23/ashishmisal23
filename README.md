@@ -1,4 +1,4 @@
-<p>- 👋 Hi, I’m Ashish Misal <br>
+<p>- 👋 Hi, I’m <b>Ashish Misal</b> <br>
 - 👀 I’m interested in Web Developement <br>
 - 🌱 I’m currently learning Full Stack Developement <br>
 - 💞️ I’m looking to collaborate on Web Application Projects <br>
