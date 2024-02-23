@@ -1,8 +1,8 @@
-<p>- 👋 Hi, I’m Ashish Misal
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Full Stack Developement
-- 💞️ I’m looking to collaborate on Web Application Projects
-- 📫 You Can Contact me on ashishmisal23@gmail.com
+<p>- 👋 Hi, I’m Ashish Misal <br>
+- 👀 I’m interested in Web Developement <br>
+- 🌱 I’m currently learning Full Stack Developement <br>
+- 💞️ I’m looking to collaborate on Web Application Projects <br>
+- 📫 You Can Contact me on ashishmisal23@gmail.com <br>
 - 📫 M: 9689642096
 </p>
 <div align="center">
