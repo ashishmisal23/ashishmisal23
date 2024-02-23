@@ -21,7 +21,7 @@
 📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
 🛠 Language and tools <br>
 </h4>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -40,9 +40,13 @@
   <img width="12" /> 
   
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashishmisal23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <div align="center">
   <h2> Profile Visit Count</h2>
   <img src="https://profile-counter.glitch.me/ashishmisal23/count.svg?"  />
 </div>
 
+<img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
