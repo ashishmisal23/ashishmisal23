@@ -56,5 +56,5 @@
 <br>
 
 <div align="center">
-  <img align="right" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
+  <img align="center" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
 </div>
