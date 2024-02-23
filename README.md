@@ -15,7 +15,7 @@
 👀 I’m interested in Web Developement <br>
 🌱 I’m currently learning Full Stack Developement <br>
 💞️ I’m looking to collaborate on Web Application Projects <br>
-📫 Feel free to reach out or check out my repositories to see my work!
+📫 Feel free to reach out or check out my repositories to see my work! <br>
 📫 You Can Contact me on ashishmisal23@gmail.com <br>
 📫 M: 9689642096 <br>
 🛠 Language and tools <br>
