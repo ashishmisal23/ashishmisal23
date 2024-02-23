@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Ashish Misal
+<p>- 👋 Hi, I’m Ashish Misal
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Full Stack Developement
 - 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 You Can Contact me on ashishmisal23@gmail.com
 - 📫 M: 9689642096
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
