@@ -11,14 +11,14 @@
   </a>
 </div>
 
-<h2>- 👋 Hi, I’m <b>Ashish Misal</b> <h2>
-- 👀 I’m interested in Web Developement <br>
-- 🌱 I’m currently learning Full Stack Developement <br>
-- 💞️ I’m looking to collaborate on Web Application Projects <br>
-- 📫 Feel free to reach out or check out my repositories to see my work!
-- 📫 You Can Contact me on ashishmisal23@gmail.com <br>
-- 📫 M: 9689642096 <br>
-- 🛠 Language and tools <br>
+<h2>👋 Hi, I’m <b>Ashish Misal</b> <h2>
+👀 I’m interested in Web Developement <br>
+🌱 I’m currently learning Full Stack Developement <br>
+💞️ I’m looking to collaborate on Web Application Projects <br>
+📫 Feel free to reach out or check out my repositories to see my work!
+📫 You Can Contact me on ashishmisal23@gmail.com <br>
+📫 M: 9689642096 <br>
+🛠 Language and tools <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
