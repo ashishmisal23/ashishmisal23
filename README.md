@@ -23,17 +23,18 @@
 
 ## 💻 Tech Stack:
 
-![Express](https://img.shields.io/badge/Express-3670A0?style=flat-square&logo=express&logoColor=ffdd54)  
+![Express](https://img.shields.io/badge/Express-3670A0?style=flat-square&logo=express&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat-square&logo=mongodb&logoColor=%2361DAFB) 
-![Node JS](https://img.shields.io/badge/Node.js-%2320232a.svg?style=flat-square&logo=nodedotjs&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
+![Node JS](https://img.shields.io/badge/Node.js-%2320232a.svg?style=flat-square&logo=nodedotjs&logoColor=%235FA04E) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=%23CB3837) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Php](https://img.shields.io/badge/Php-%2300599C.svg?style=flat-square&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	
 
 
