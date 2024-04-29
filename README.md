@@ -1,17 +1,9 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ashishmisal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+<div align = "center">
   
-  <a href="https://github.com/ashishmisal23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
-  </a>
-  <a href="https://www.instagram.com/ashu.misal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi+I'm+Ashish+Misal)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b520fede0a06c3d727d1e81d5fb52cb1acce9432&rid=giphy.gif&ct=g" >
 </div>
-
-
 <h1>👋 Hi, I’m <b>Ashish Misal</b> </h1>
 <h4>
 👀 I’m interested in Web Developement <br>
