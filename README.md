@@ -13,7 +13,7 @@
 📫 Feel free to reach out or check out my repositories to see my work! <br>
 📫 You Can Contact me on <a href="mailto:ashishmisal123@gmail.com" target="_blank">ashishmisal23@gmail.com </a><br>
 📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
-🛠 Language and tools </h4>
+</h4>
 <br>
 
 <!-- Green Line SVG -->
@@ -22,6 +22,7 @@
 
 
 <div align="left">
+  <h3>🛠 Language and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
