@@ -42,6 +42,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ashishmisal23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmisal23&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&&hide_title=truetitle_color=bb5b14&&border_color=2f353b&show_icons=true&layout=compact)
 </div>
 <br>
 
