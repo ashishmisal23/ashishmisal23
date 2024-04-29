@@ -63,3 +63,7 @@
 <div align="center">
   <img align="center" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
 </div>
+
+<div align="center">
+  <img src = "Bottom_Down_Wave.svg" alt = "Bottom svg credit goes to user: BEPb">
+</div>
