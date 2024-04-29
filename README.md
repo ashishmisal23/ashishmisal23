@@ -4,7 +4,7 @@
   
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b520fede0a06c3d727d1e81d5fb52cb1acce9432&rid=giphy.gif&ct=g" >
 </div>
-<h1>👋 Hi, I’m <b>Ashish Misal</b> </h1>
+
 <h4>
 👀 I’m interested in Web Developement <br>
 🌱 I’m currently learning Full Stack Developement <br>
