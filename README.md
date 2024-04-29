@@ -5,7 +5,7 @@
   
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b520fede0a06c3d727d1e81d5fb52cb1acce9432&rid=giphy.gif&ct=g" >
 </div>
-
+<div align = "left">
 <h4>
 👀 I’m interested in Web Developement <br>
 🌱 I’m currently learning Full Stack Developement <br>
@@ -14,6 +14,7 @@
 📫 You Can Contact me on <a href="mailto:ashishmisal123@gmail.com" target="_blank">ashishmisal23@gmail.com </a><br>
 📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
 </h4>
+  </div>
 <br>
 
 <!-- Green Line SVG -->
