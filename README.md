@@ -22,6 +22,10 @@
 📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
 🛠 Language and tools </h4>
 <br>
+<!-- Green Line SVG -->
+![Green Line gif](Green%20Line.gif)
+![Green Line gif](Green%20Line.gif)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
