@@ -22,6 +22,10 @@
 ![Green Line gif](Green%20Line.gif)
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishmisal) 
+
+
 ## 💻 Tech Stack:
 
 ![Express](https://img.shields.io/badge/Express-3670A0?style=flat-square&logo=express&logoColor=ffdd54)
