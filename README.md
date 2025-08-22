@@ -12,7 +12,7 @@
 💞️ I’m looking to collaborate on Web Application Projects <br>
 📫 Feel free to reach out or check out my repositories to see my work! <br>
 📫 You Can Contact me on <a href="mailto:ashishmisal123@gmail.com" target="_blank">ashishmisal23@gmail.com </a><br>
-📫 M: <a href="tel:+919689642096" target="_blank">9689642096</a> <br>
+
 </h4>
   </div>
 <br>
